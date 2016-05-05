@@ -22,7 +22,8 @@ namespace CFStringComparators {
      * This object implements the function call operator to provide a callable
      * class interface for string comparison.
      *
-     * @see `Sort::operator()()` for details regarding actual string comparison.
+     * @see `Equality::operator()()` for details regarding actual string
+     *                               comparison.
      */
     class Equality {
       public:
