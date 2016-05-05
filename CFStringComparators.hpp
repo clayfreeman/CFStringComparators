@@ -12,8 +12,8 @@
 /**
  * @namespace CFStringComparators
  * `CFStringComparators` is a C++ comparator expansion pack that provides extra
- * `std::string` comparators for use with standard C++ data structures (e.g.
- * `std::map`, `std::set`, etc).
+ * `std::string` comparators for use with standard C++ data structures
+ * (`std::map`, `std::set`, etc).
  */
 namespace CFStringComparators {
   // Make forward declaration of members provided by this namespace
